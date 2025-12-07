@@ -3,5 +3,5 @@
 1. Instale o Node.js no site oficial
 2. Para rodar o arquivo digite
 ```bash
-node nome_arquivo.js
+node exemplo_cluster.js
 ```
